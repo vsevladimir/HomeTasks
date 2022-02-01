@@ -1,0 +1,41 @@
+<cars>
+ <car>
+   <Brand>Mazda</Brand>
+   <Model> 3</Model>
+   <Engine> 1.6i</Engine>
+   <Body> Sedan</Body>
+   <Counry> Japan
+</Counry>
+ </car>
+ <car>
+   <Brand>Volvo</Brand>
+   <Model> XC60</Model>
+   <Engine> T6 3.0</Engine>
+   <Body> SUV</Body>
+   <Counry> Sweden
+</Counry>
+ </car>
+ <car>
+   <Brand>Mersedes</Brand>
+   <Model> Vito</Model>
+   <Engine> 2.2d</Engine>
+   <Body> VAN</Body>
+   <Counry> Germany
+</Counry>
+ </car>
+ <car>
+   <Brand>Zhiguli</Brand>
+   <Model> 2106</Model>
+   <Engine> 1.3i</Engine>
+   <Body> sedan</Body>
+   <Counry> USSR
+</Counry>
+ </car>
+ <car>
+   <Brand>Ford</Brand>
+   <Model> Mondeo</Model>
+   <Engine> 2.5i</Engine>
+   <Body> sedan</Body>
+   <Counry> USA</Counry>
+ </car>
+</cars>
